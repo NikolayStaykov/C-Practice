@@ -1,0 +1,2 @@
+C:\Pretend This Is D\Projects\C-Practice\PracticeProject\Debug\PracticeProject.exe
+C:\Pretend This Is D\Projects\C-Practice\PracticeProject\Debug\PracticeProject.pdb

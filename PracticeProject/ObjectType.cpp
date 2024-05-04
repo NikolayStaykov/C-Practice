@@ -1,0 +1,3 @@
+enum ObjectType {
+	TERRAIN, BACKGROUND, ENTITY
+};
